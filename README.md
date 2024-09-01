@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpratap914&label=Profile%20views&color=0e75b6&style=flat" alt="yashpratap914" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://65a7bf52fb8589007c11ef7a--beautiful-cobbler-6a42be.netlify.app/](https://65a7bf52fb8589007c11ef7a--beautiful-cobbler-6a42be.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashpratap914.github.io/](https://yashpratap914.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@yashpratap914](https://medium.com/@yashpratap914)
 
